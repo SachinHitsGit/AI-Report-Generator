@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-
+my_py311_env/
 # OS files
 .DS_Store
 
