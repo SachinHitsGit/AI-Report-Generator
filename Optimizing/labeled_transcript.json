@@ -1,0 +1,42 @@
+[
+    {
+        "sentence": "Can record.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "And we don't have a ton of items to get to.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "And I might be able to do one that might be fun if we have a little bit of time.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "So corporate events, they, I think I saw a little, I put this in Slack and I saw a little bit of kind of noise around it, which was good.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "The nutshell here is as we've kind of restructured and tried different things.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "The event support that we need isn't as nailed down as it needs to be.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "So the current tactic that we're going with is go-to-market team, signs up and kind of sponsors that event.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "So you support as a PMM, your campaign manager does the campaigns for that event, etc, etc.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "I don't see anyone in the, maybe there are comments in the issue.",
+        "label": "Not Information-Rich"
+    },
+    {
+        "sentence": "I don't see the header updated yet.",
+        "label": "Not Information-Rich"
+    }
+]

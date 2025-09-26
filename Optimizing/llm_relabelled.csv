@@ -1,0 +1,597 @@
+sentence,llm_label
+"It's I love it or hate it, right?",1.0
+Like I see a lot of competitors of vendors using it.,0.0
+"I was going in the direction here, which was thinking you know a lot of and then I called them key iterations the sort of specific things.",0.0
+"Well, it was just me just as you were offensive.",1.0
+"And then, for, if the vendor builds, like, builds themselves as a platform, then we should specifically call out that they have zero.",0.0
+For the purposes of front end working on it because front end was going to work on it without a mockup.,0.0
+So it may end up Cindy being you and I just picked the one that we want to do and then they can back us up.,0.0
+"Can't believe this is always a little bit tough and I'm not totally sure of all of the kind of the interplay here, but I think this is kind of the general gist of this assignment is okay, we have commit coming up.",1.0
+So it kind of combines confidence or more speed less risk high confidence.,1.0
+Each one has the same.,0.0
+This this gets into the no trade offs.,1.0
+"For example, Corn Mack was saying, like, epic boards is something that was asked for for a long time.",1.0
+It's got on that one I just the there's a the diff highlights of what is new content I believe.,1.0
+We would have monitor based competitors or was in that the understanding because we identified that entire list of competitors and partners for every single stage.,1.0
+"My guess was or my understanding was that we wouldn't have the same set of competitors that we're going to compare to, but the right competitors for that particular stage.",0.0
+"I mean, that was one of the more important ones, but it's not very exciting, but we can bundle that with some other things and up level it.",1.0
+Manage is even less descriptive than that.,0.0
+"It's like, okay, 15, 15 features.",0.0
+"So what do you think, Sydney?",1.0
+But I know that kind of catchy is not everyone's cup of tea.,1.0
+"So this was like, it was just your iteration of it.",0.0
+"Bam no trade offs, you know, just this is how it is.",1.0
+"So, for those platform, you know, we should call out the fact that they don't have any monitoring.",1.0
+There's something catchy about this.,1.0
+"So for example, for for monitor, we may not have like a GitHub or something like that.",0.0
+Okay thank you all for the feedback.,0.0
+So super excited for that they should start dropping any day now I think starting this week.,1.0
+"Yeah, I thought it was good to emphasize both because they mean that it's nuts.",0.0
+I mean Eric pointed this out in the next line I do think we are due for a rethink of how we're doing the kickoff because we're going to have next month we're going to have 25 people trying to give content and even at two minutes you're already gone so yeah we expand it.,1.0
+"And I know that plans done a pretty good job at least in the past of kind of running ahead of UX and saying like, okay this is kind of what I think I want this to look like before spending UX cycles on making a more high-fi mockup.",1.0
+Those those two popped out at me is yeah that's the problem we're trying to solve.,1.0
+"It just seems like the right time to do this, right?",1.0
+I mean use your judgment if it doesn't need it fine but where we do need design it'd be great to get at least a month ahead so as we roll into dev we have that to offer them.,1.0
+"I think from a competitive mindset, and for me, I'm like, let's go hard.",1.0
+"Well, I thought it was supposed to be that none of them should be GitLab only, right?",0.0
+"At GILAP, it's really, really tough to make product announcements because our entire roadmap is completely public.",0.0
+I also like the idea of asking internal and external constituents with a like or don't like about the format.,1.0
+"So yeah, the goals have a comparison comparing DevOps tools.",1.0
+"It was kind of one of the things, but there's some other stuff that's a little juicier than that.",1.0
+It's like a bucket of capabilities that is probably worth talking about.,0.0
+Thanks for the link to SOMI on the rolls.,0.0
+One of which is sort of this flow chart showing how mature we're going to be at a given point in time which raised questions about whether we were forecasting that accurately.,0.0
+"Yeah, Jenkins Cloudbees does not.",1.0
+Probably we'll not get another chump at that so I think let's go with vulnerability management.,0.0
+Everybody in the team is on the same page with respect to this book.,0.0
+"So yeah, so I don't think I like that one.",1.0
+"You know, it's pretty cool.",0.0
+That may not be relevant for monitor.,0.0
+I like that a lot.,0.0
+I just want to like if the intent was to make sure we we're just clarifying that same position but if we're saying actually we should kind of pull back from the push for more dog footing.,1.0
+"Oh was that was that from- No, but it could have been.",1.0
+"And you can't say with GitLab, you get move fast with confidence.",0.0
+So here I was trying to like envision what is it that we actually give you with this velocity?,1.0
+"Brian asked.Yeah, because the way without it, you're basically putting all the things that we're better at.",0.0
+"Yeah, we should, I think you asked me that before, right?",1.0
+"Like if we were any other company, when we started a beta program in this last year, what would be announcing is GA at commit?",0.0
+"So if they don't apply to that stage, don't worry about it.",1.0
+"Yeah, so I was trying to I was thinking of like, you know, if you're like if you're in a race car and like you go like super super fast like let's say you're in the bike race, right?",1.0
+"So in theory, this could be the same as the GILAP14 lunch where we're saying basically since 13.0, what kind of big improvements have we made?",0.0
+I was adding the link there.,0.0
+It's tied back to your user IDs so we can track which team you're on and that kind of thing.,0.0
+And there's also if you scroll down stays level trends as well.,1.0
+And now we're going to stick with the green.,0.0
+We did this one is a PR driven to some degree.,1.0
+So I think if this team can take the mission to like try to help track that down.,0.0
+"So, Samia, you have some questions here.",1.0
+I often say thank you little eight pound five ounce baby Jesus with the golden diapers.,1.0
+"No, sorry.",1.0
+"It's not, it's not obviously negative.",0.0
+Scott just a quick question to you.,1.0
+So I just I hadn't seen it in Scott but I searched my email real quick and it looks like that's the title of the email so if you just search for that in your in your Gmail you should be able to find it if you got it.,1.0
+That's that's why I put this one at top was for that parity.,0.0
+We could have either vulnerability management or I was when I've been struggling with a little bit as I'd like to kind of group the some of this the proprietary scanning without making it sound like they're scanning improvements because that sounds like they weren't good before.,1.0
+Brian.,1.0
+And so we'll release those two as they come out we'll embed them in the how we work description or team page as well.,0.0
+There's several key iterations aligned with Giddyly cluster.,0.0
+"Yeah, I think I was inclined to group some things to say like vulnerability management because there were tiny little MVCs all the way along, but if you look at over the course of the year, we went from this to this, it makes more sense to me to highlight that than any individual little thing.",0.0
+I don't think we can leave them off.,0.0
+That was the point.,0.0
+I need to go back and look at this spreadsheet.,0.0
+"So you support as a PMM, your campaign manager does the campaigns for that event, etc, etc.",1.0
+Let's just do this like top top five overall.,0.0
+But that looks good and I appreciate.,0.0
+This is the one for the single two comparison.,0.0
+"I've done a similar, I've taken a similar approach for monitor with incident management.",0.0
+We're just focusing on tier one right now.,0.0
+"I just, we just use the tier one competitors and if they're not, if they don't, are not applicable, then we don't have to fill out anything for that.",0.0
+And that I think that's a pretty good note as well.,1.0
+I really liked what's the other one that I like that not everyone does.,1.0
+So that's kind of where it's coming from.,1.0
+Just wanted to make sure you all saw that.,1.0
+"So there was these ones that said like, from roadmap to company vision, we are transparent and a single source of truth, countless possibilities.",0.0
+Right that's what I was saying is that the fuzzing we already did press on.,0.0
+That's like saying like 100% secure.,0.0
+So please do read that.,1.0
+I thought it was within the past year.,0.0
+So maybe we can do like five minutes kind of like just just time box and kind of look at these here.,1.0
+"So if you get the commitment specifically from your campaign managers, hey, like we're signing up for CUBECON.",1.0
+But we have a really strong candidate for that fourth slot.,0.0
+What do we call it?,1.0
+We hired Gabe Weaver.,0.0
+CS and sales have populated that with the number of customer contacts for meetings.,0.0
+We were something around there.,1.0
+"Put everyone in the gym or like convert the half cafeteria gym, you know, take away the big barrier between it so that we can have more room and then take those carpets that have never been cleaned and just you know sit on them and it'll be great.",1.0
+Now I'm just going to I'm going to ping you on this core back to add add a top five plan.,1.0
+Me it's strong all those are you know cool.,1.0
+All in one for everyone.,1.0
+Thanks Scott this is Kriina just to add to that if you don't mind.,1.0
+And then so it sounds like kind of y'all's thoughts are that's that's good as well.,0.0
+"Certainly, it's something shifted a lot of people are using it, the MAU.",0.0
+I wanted to start out with some reminders.,1.0
+All that's to say is the assignment here was that I took it was to write a pithy few words like punchy statement for each of these three things.,0.0
+So my thought would be is there a way that you can start sharing you know or applauding good examples of this so that the product team can start to kind of ruminate on this and develop that skill if if we're not there yet.,1.0
+And so homework for this weekend.,0.0
+"So, we'll do the other ones in a later stage.",1.0
+That's probably why I cut and paste them because those are all tier ones.,0.0
+On Slack only and on the issue actually.,0.0
+Yep perfect.,1.0
+There's being the audience coming in and not knowing anything about these specific stages.,0.0
+So what's the difference between that slide and the next one that doesn't have anything under security?,0.0
+"Alternatively, if there are double digit entries, then we can stack rank.",0.0
+Just go through the list of what shipped in the last 12 months and we'll re-buck at that.,0.0
+This should be like a helpful page.,0.0
+In my case some of the features also just have no UX component.,0.0
+So we have the the jurist of is pretty good.,0.0
+There was a webinar that used to happen at Cold Relaced Rader.,1.0
+"Now, depending on how it's asked for, maybe that means it's exciting or it's not, right?",1.0
+The nutshell here is as we've kind of restructured and tried different things.,0.0
+"I actually, if you read the thread, I've brought that up, but she said we can't do it like right now, which I understand.",1.0
+"For example, cloud beads may not be relevant for monitor stage at all.",1.0
+There's an OKR issue out there.,1.0
+Well let's you know let's try to this is due Tuesday I think we want to try to get this done.,1.0
+Can we just can we reuse some of those things and plug them in here?,0.0
+"So, and then this was the father that I got.",0.0
+It's been a little while.,1.0
+"Yeah, I like this one better.",0.0
+And then the assignment that was given to me was to fill in these boxes here.,0.0
+You want to talk about that?,1.0
+And then the last thing I'll say is so this is this was my attempt to channel my inner ash withers.,1.0
+There's no UI component that could be being shot in.,1.0
+So I've talked myself out of not liking that.,1.0
+So it was mostly language wherever that showed up in the handbook.,1.0
+"So let me ask, I saw some Slack, I think in our Slack, but did you all, were you all able to connect with your GTM teams?",0.0
+Please do follow up on that.,1.0
+To kind of add to the time just a feedback I was timing myself this time and I had two features listed and I hit three minutes in 14 seconds obviously he's shortened that so when we talk about you know I think somebody mentioned doing two or coupling it down it's interesting that I landed there with the two that I chose.,1.0
+"So I gave it a three excitement level I wasn't sure exactly where to place things, but I figured I wouldn't like the Cindy's comment have something that's a one here anyway, but the only way I could make sense of like the iterations was to bucket them as something.",1.0
+That plan editor's definitely an option for CI CD.,1.0
+"You know, so that just so that they can get that that event support.",0.0
+It's a little bit different than saying it's about our internal opinion like that we should we had always said we should validate it so the clarification is good that we want to make sure it's about us saying this is in line with where we want to take the product and where we're hearing customers but if an internal customer wants it we should we should do original thinking was that we should emphasize it.,0.0
+"Well, they all do for tier one except Jenkins and Cloudbees.",0.0
+"So that's the that can be the line, yes or no, whether you can use the thing for a lot of businesses.",1.0
+"Same with configure stuff for this, you know, any, those kind of capabilities.",1.0
+Like we don't we don't often stop as a company and just kind of look at our wins.,1.0
+It was last summer right?,1.0
+If we aggregate it all it's a bummer that customizable value stream analytics is 12.9.,0.0
+So this is a little bit of a messaging framework.,1.0
+Don't try to do it all at once we're going to have to work our way through.,1.0
+"You know, how about just more speed less risk with confidence?",0.0
+I don't know feel free to continue to suggest tweaks.,1.0
+"I'm just like, what is what is your feeling based on, you know, could be anecdotal like you talked to customers and they're like really hyper excited about this?",1.0
+"Maybe we can just you know, we should reserve a spot for plan but I'm going to have to go through and do some aggregating after this.",1.0
+I don't know that any one of those needs to kind of be exclusive.,0.0
+So thank you to everyone who's been involved in the hiring loop.,0.0
+I really like the first one just more speed less risk.,0.0
+What is what are they?,1.0
+I think it's okay to be pretty brief in your description as long as you're hitting what it is and if somebody's really interested they can dive deep thematic is a good idea.,0.0
+Who could look at first?,1.0
+So I'll ask Jessica to send it to Fabia and Karina.,0.0
+"So, but I'm going to point it out.",1.0
+I need to get it to you.,0.0
+Maybe that would encompass both thoughts.,0.0
+I think the point is when you're thinking of customers for your thing think of our internal teams early like you can get great feedback from them they have an incentive to work with you there's very little risk in rolling out things early to them so treat them like a customer and think of our internal teams early as you're rolling something out that's still very much the message but let's not over rotate on internal feedback or internal opinion let's still see external feedback too because that's just one customer of many.,0.0
+"So I guess the next, so it looks like tie put in some folks.",1.0
+"Yeah, so you could say secure and control your software factory and it's deliverables.",0.0
+"No, but you can say more speedless risk.",1.0
+So yeah I think like in general there's a lot more value if we can show something like that so you know product managers you can consider that you should feel free that you know you're empowered to take a tool that you're comfortable with even if it might even be just like Google Slides and make something that gets you at least a part of the way there in terms of what you want to experience to look like.,1.0
+It's highly aligned with how I think about product management and does a good job of explaining why some of these things are important.,0.0
+It looks like this looks good so that let's see needs support from GTM teams.,0.0
+That's almost kind of like you can you can keep going like faster and faster and faster.,1.0
+Okay thanks Kenny for starting the issue.,0.0
+"Let's just the way I think, right?",1.0
+3C I thought the talk track shifted and I was definitely more a problem focused I noticed a number of speakers really trying to zero in on that which is perfect some of them could have been more problem focused I thought and so just keep keep considering that as you as you yeah it's important to be able to pitch these things in ways that people that aren't close to it can understand and so just think about that how do I explain this to someone who's cold who doesn't know a darn thing about this why should they care that getting that crystal in your in your thinking is going to be important no matter what so it's time will spend.,1.0
+It's hard when it's in tabular form but when it's charted it's much easier to see like if it's achievable or not based on some of the trends.,0.0
+"This is I just put here so that I would have like the original statements like, you know, automate nearly anything, collaborate on everything.",1.0
+James over to you for number four.,1.0
+But we also have in terms of proprietary stuff we've also got we replaced one of our scanners with SEMGRIP and we did we have our own proprietary dust scanner now that's in it's in beta called brow zirker so it's our answer to scanning single-page applications which represent a unique challenge.,1.0
+"So I just, I don't know, I like, I just think so.",1.0
+Actually let's just let's actually just do that.,1.0
+Or the next week we'll watch Step Brothers.,1.0
+I now would agree on that one and I would say that some of these we did do some press around and the the fuzzing acquisitions was one thing so we might not get it out of that.,1.0
+"And I think that lends itself to working with, you know, all the co-optition situations we're talking about.",1.0
+How are we measuring excitement levels?,0.0
+We always feel at risk or less risk.,0.0
+It's being less good.,1.0
+Let's let's go with vulnerability management for now.,1.0
+It's something riki Bobby would have said.,0.0
+"But then for the, but it's going to look the same.",0.0
+Just forget it again my rimp sorry I got a couple of things I think we definitely have a stronger definition that I've done as part of progress is delivery right and so part of something done is it needs to run at scale and getlab.com successfully and not below the cost model not below performance and if it does it's just getting to be reverted frankly and that should be the bar for getting features across the line that doesn't mean for new features you know that have low usage that you know I was they're impeccably quite small but these still it needs to be within reason I totally agree that you don't want to over build on the first iteration for planning for millions of users because that's just making a sense but yeah I think that's one aspect I think their aspect is that on your comment press run pricing and we can maybe have a fallout here on like a handbook update but I think it's interesting that customer ritual absorb the cost on self-managed of compute and so for them if they want to have a ridiculous number of you know mirrors then you know it's fine because they're paying for it so use cases on their dime and so maybe a way to think about this is to have some level of controls you can set if you want to use the several that sort of I don't have have some way to control that in a matter of behavior for when we're covering the cost of those things but yeah anyways thank you all great topic Christopher please pile on that issue with thoughts on how to how to handle this like you're suggesting on definition of done Josh all right Karina six and seven yes so I submitted an MR for the product template yesterday and we're going through this process of getting more self-organized in the release area and with our engineering and user design partners and you know one of the things that we recognize and it's documented in the issue below in number seven is you know one our delivery percentage has not been great what you heard me talk about but it has been a complete ramp that we need to self-organize around some method and what we found and sort of the last prioritization for a release scope is that we have a lot of oversized issues and features that you know honestly need a need a beat or a release to go through user research maybe look at the code if they've never seen the code you know reviewed that piece of code before or makes the recommendations on the best way to solve so I put some thinking around you know that sort of you know that dual track mindset dual track agile kind of launching off of what user experience has recently updated for dual track agile so feedback on that and then the second piece is that this experiment or running is releverging semi dual track agile approach just to organize our conversation how we open issues for areas that we need a discovery beat versus presenting an issue that is actually ready for delivery one thing that was interesting Scott we were talking about you know just the kickoff call and having some you know you know images and and more to share that's definitely where I think we'd like to be with release is getting ahead of that curve and really having some concrete understanding and prototypes of what we're trying to to present and deliver but when we looked at sort of kind of going through that process you know this is really four complex things or heavy lifting because you know it is about a 20 to 30 day lead time to commit so just and so we have some targets um to improve um you know our hypothesis on leveraging this um you can follow it there if you have input but um it could they kind of tie together but I love input on the handbook piece thank you Karina for creating these and sharing these I think you're on the right track um in parallel I've been working with like Christopher and Eric and Kristi to outline a high-level description of our software development life cycle which will have two tracks this is sort of competing content there or maybe or maybe they could be merged so thank you for doing this I may slow roll it a little bit to make sure that we have one way of describing the flow we'd like to go through but thank you very much for getting it kicked off any questions for Karina if not Josh what do you yeah just a risk announcement you just went through renamed the promised label to playing priority um general meaning is large of the same although we shouldn't be promising features and so this is just a way to flag it um and uh that way it's reminder for pms that this issue had some importance left with additional dependencies um and so just be aware of it um so you can feel free to use it um I did note in the label text that it should only be applied by product managers and in particular the responsible five manager for that section um so it shouldn't be applied by cams or anyone else so awesome I like that terminology a lot better thank you Josh all right five minutes of spare anything else if not have a great Tuesday what are yours,1.0
+"And if somebody like jumps out with a sign in the middle of the racetrack, you're not going to get tripped up by it because Git Labs, you know, it's testing is going to catch that.",1.0
+That's all just folks.,1.0
+And and treat as a stack rank rather than just like a raw excitement level that doesn't necessarily hard to somebody's one or somebody's three may be more important than somebody else's one.,0.0
+Yeah I mean I don't even if we said every person has one minute I feel like we're doing it this service because we're now highlighting much less because we feel like we have a time constraint and need to keep it into one synchronous 30 minute block.,1.0
+I thought we had in Slack sort of farm to each one of them out.,0.0
+Then we'll look at those other.,0.0
+Let's put some rent on there.,0.0
+So are you saying that you see competitors on that tab for a stage where they don't apply?,0.0
+We hired a couple more PMs.,0.0
+"Yeah, ideally there's just you know three you know three and I was per stage and then I think y'all made some good notes that okay, we need to add manage.",1.0
+"Cool, so I'm just trying to catch up with the thread.",1.0
+"This, this was the honestly so that so when I first got this, it didn't have this and it didn't have anything under security.",1.0
+I think it's okay.,1.0
+So just pick the ones out of that list that apply to our stage.,0.0
+"See you soon.If it's like my family, I definitely have no subjects.",1.0
+It's security is going to catch that.,0.0
+No I would please don't conflate the two.,0.0
+So I concur that maybe configuring monitors not as descriptive as it could be.,0.0
+I don't like the last one.,1.0
+Which between between the proprietary ships of the vulnerability management which would you pick as number one out of those two?,0.0
+And in that case like I was like I'm so thankful I have a screenshot even though that one is actually not a high-fi mockup it's more it's more low-fi it's a little bit piece together.,1.0
+I guess that kind of bundles the quality and the security together.,0.0
+"Can you comment on the issue that yes, I can commit to this, etc, etc, etc.",1.0
+So much room for activities.,1.0
+"Maybe you can only give out one, one, two, or three.",0.0
+"There's a couple of things and integrations with VS code that could be notable, but I can I show what I did for SCM just to get some general feedback on it and if someone hasn't done it maybe that'll also okay.",1.0
+Josh did a great job of creating some new views.,0.0
+You're not with the amount of tabs I have opened.,0.0
+"So if we have three for all of these, that, I mean, it looks like we're going to get there and that's going to be quite a lot of features.",1.0
+"But the place where it will, so actually I'll share one thing.",1.0
+We made a couple decisions along the way.,0.0
+What do you guys think about the colors?,0.0
+"So to be back, I got one person to respond so far.",0.0
+Several that rolled up to a research-based user experience and I was thinking like I was shy on calling out UX as a bucket except that actually that's that's super typical.,0.0
+If you haven't updated it lately please do so.,0.0
+"So each sheet has has a DO at last year in GitHub, Jenkins, J.Frog and cloud beads.",1.0
+That's another great one.,1.0
+I'm going to run this once a month in Q3 just to take a pulse given all the change going on.,0.0
+"Honestly, I think this ones are like really pithy and catchy.",0.0
+"There was a community module, but now it's officially supported.",0.0
+I love that one.,0.0
+"Yeah, do you all, does anybody have like a regular sink still?",1.0
+"So, so the way this is getting built is off of a data model.",0.0
+Yeah I just thought I'd uh share this um for many I think many on this call haven't heard Mark Kumsbach speak about um product discovery sprints that he advocated that there's quite a number of times previously um from his experience reckoning these at a prior company um so the idea is kind of different to a uh I guess a UX discovery sprint I think Fabian linked one of the books about that where it's really focused on UX iteration and research um the product discovery sprint is more focused on kind of like actually building something iterating on something that's built and trying to get to some sort of NVC really quickly by trying to make the process more synchronous so um the source code group is going to try and do that around file by file def navigation to solve performance and usability problems um in 12.3 um and I thought it would be interesting to share that because internally we've been wrestling with like how to make this work well in async slash remote environment um so we're looking at trying to confine the participants in a specific time zone so that we can all be available with a significant amount of overlap um but that's also difficult because we have it kind of excludes automatically 50% of the team who are just geographically remote from any of their peers we only have one UX designer that's only available in the European time zone so um some interesting challenges there if it goes well we're going to try and replicate it um a release or two later on a different problem that is also really complicated and hard and we want to make progress on quickly but I'll share any findings we have and if anyone's interested in discussing that with me more um put a meeting my calendar or drop me a message this is great James by the way I think the UX team is going to run well let me just say we have the option to run one with Google Ventures who's one of our investors in that sprint book that Fabian Link 2 was written by a guy from GV they did hundreds of these things with our clients they know what they're doing so if we get a chance to do one with them we should uh we're gonna have to figure out how to do it within our async model though so whatever you learn from yours James please feed that back a super interesting topic I think if we could get good at this asynchronously that would be a breakthrough yeah I think one other interesting challenge is that the sprint sort of terminology is kind of challenging and like it's not sustainable to be doing design sprints or discovery sprints on a daily basis yeah whether or not we were in person or not it's not scalable to actually sprint all the time so choosing the right task is choosing the right time um is I think one of the other challenges I agree yeah you don't want to do this for everything because well if you follow the to the letter it takes a whole week and you're totally dedicated to it which is amazing for focus sake but you can't get anything else done so depending on how we structure this it would need to be done for things that are really big unknowns where dedicating a huge chunk of time like that is worth it and not everything clears that bar yeah I think it's also most relevant for for stages that are very in very interesting in the very beginning kind of like that tyron was like one of their biggest example for Google Ventures when they obviously like solving clinical trials for the world is like super complex problems so they just figured out what is this a thing that we can do so that we can start getting there and I think these are the problems that the design sprints use we used it pretty successfully at my last company around pricing and packaging stuff and ran a bunch of interviews with customers on that so I've seen it work all right okay Christopher number five yeah just want to call out we've over the past month we've had a significant number of outages related to .com and the effect that at least one customer revenue potential and because of that you know we've had some some focus from an executive so I encourage everybody to look at that document you kind of look through it in particular as a couple things from an engineering perspective make you aware of one is as we started infrastructure to development board where we're going to start matching issues up and trying to make sure that if that those could prioritize highly where appropriate particularly for anything that you know affects performance around these issues the other issue that I put in there was one around that's listed specifically which is around the fact of prioritizing p performance availability work so one of the significant features of this up to go recent outage last week was that the register apparently can't handle the load anymore we started digging into it we found a bunch of stuff that we hadn't checked like for instance it's an example rj unit test we're basically going and getting cached and there was no limit on the number of unit tests that could actually be cached so they were getting these like blocks of like several megabytes of data that had to basically be transferred around and read us and that's really what's affecting its performance overall from a caching service perspective so consequently Scott I said that to you I hope that's okay because it feels like it was like you need to help out when it hurts the effect of you know how do we best make sure that we get this kind of systematically going and I just want to make sure that everybody was aware and just kind of open up for discussion if there were any questions or or any feedback or early feedback on it from my perspective I added some comments to it Christopher okay I have an add a chance to look at Paul just about that problem can I ask do we and maybe Mac this is a question for you do we categorize performance issues as bugs we do have a performance label but they should be under under bugs okay yeah this is an example where oftentimes the way we treat performance is a reactionary this is trying to think about a more in a proactive way so like as an example I'll give a horrible example but when I worked at Amazon tags originally when Amazon was created tags were they were expecting this to label you know certain instances and that was it and it turns out that all customers started using like 20 and 30 or 50 tags and they're like what the heck is going on and they realize tags were being used to basically you share environmental information so the VMs could they could put the same drop a code on two different VMs and they could behave differently based on the tag which was a total novel way for customers to use it so then they had the basically limit the number of tags they could use because it wasn't scaling with the system effectively so like this is kind of another example where like I think we got to start thinking in terms of you know like when we create something new a new feature of piece of functionality like what's the cost associated with that right because like it does cost something internal and I'm not asking product managers to necessarily think in terms of the exact bytes but I am turning to think in terms of like you know what are the expectations around it because like as an example if we went back and looked at G-Unit tests and reporting you know if we said unlimited that's you know that's a tough engineering call right particularly I guess it's free right now for customers so this is a minor standing we also don't have a number of reposmire we don't have a limit on that and that that seems dangerous yeah so I guess I would comment you know I think the product team is expected to prioritize all things and to understand them deeply whether they're a security issue or a performance concern I think what you're highlighting is in order to be proactive I don't know if the product team would immediately know the impact of a proposed change but maybe that's an opportunity for our infrastructure SRE stable counterparts to be involved in vetting and looking at issues early in the pipeline to decide whether or not they would yeah or or let's say we're implementing a feature like let's say we were implementing mirroring from scratch like the first question we should be asking is is like how many how many mirrors is a customer expected to be able to support and what I want to start charging for if they get above a certain limit and you know and right now we don't and you could argue that scaling is just a much a reason for customers to start paying us as his feature sets that's that's that's that's kind of the argument I would do because those things cost money like whether we like to admit it or not yeah Christopher I would agree with you on what you're trying to sort of shape up and call out here in the sense of you know going through pages for example the performance of getting those page loads loaded is not great and I don't know if we set out originally to track some of those performance things but I think that performance and into your point can I think performance should be somewhere incorporated as we move forward and something we should be thinking about for scalability across the board because it's just as important as bringing forth that really cool thing to them is that that really cool thing works and people will stay there to use it.,1.0
+"Yeah, for now, but then we'll move to tier two and tier three.",1.0
+The riki Bobby in me really did like the no trade offs of that Parker.,0.0
+We just have a ton of speakers which I love that lots of people get a chance to speak so I'm good with that but we're going to have to we're going to have to limit the number of items probably so it looks like there's some other ideas in here perhaps themes.,1.0
+And I think this is due at the end of the day so any additional thoughts I'm actually going to untag.,0.0
+"So I you know forgave myself for doing something at first that was kind of like shy about calling out UX and bucketing some things there, but actually when I looked around that's pretty much how everybody does a big launch.",0.0
+They're like squares of carpet.,0.0
+"That means to say that means nothing to me looking at this, this page.",1.0
+"But in the next iteration, you'll click on verify and it'll go down to the list of the 15 features.",0.0
+So that's what I wanted to check through.,1.0
+But I don't know.,1.0
+It was like late Thursday for me.,1.0
+I think I've seen the new infographic that the design team has come up with.,0.0
+So anyway that's one thought I had on this.,1.0
+"Okay, I'm going to go with more speed less risk.",0.0
+And so like this kind of idea like single source of truth countless possibilities or all in one for everyone.,1.0
+"You know, there's something to be said to that.",1.0
+I'll look through for some other examples.,1.0
+And it's deliverables.,1.0
+And we don't have a ton of items to get to.,0.0
+Okay we very much still want to dog food.,0.0
+"And also, Brian about the VS code thing.",1.0
+We got a good rhythm going on hiring.,0.0
+Yeah I mean some commentary I don't know or Nicole added that yeah many of the issues we're saying we're going to do UX front end and back end in the same iteration so it hasn't started.,1.0
+"William, I don't know.",1.0
+And then actually let's start here.,0.0
+"Yeah, this is this is mine.",1.0
+I think that's really goofy.,0.0
+I don't think anybody tests up.,0.0
+They may not be relevant.,0.0
+Are those all been canceled or is there a separate one?,1.0
+"So this is this is our attempt ahead to that area is to say like these are the announcements of the event and yeah, maybe it's some things that have been around for a while but like now they're at a level of maturity.",1.0
+Catch it okay one comment on ahead on this is that some of the tech seems like we should focus on core competencies as opposed to new scope and like as in we should focus for example or best at.,1.0
+Why do I care?,1.0
+I think I think in some cases like a picture can be worth a thousand words.,1.0
+I think it was in the last little overs expanse or so.,1.0
+"Performance is very much a feature and should be considered that and um I think particularly in categories where adoption is still growing and at early stages of maturity performance like understandably is less of a concern because there's lower usage so like solving scale at like an enormous level doesn't make sense commercially like necessarily when usage is small so there is a bit of a juggling act here because we don't want to build a product for billions of users if there's only I don't know 20,000 users experimenting with our newest feature so there's an iterative approach that needs to be taken but I would agree that particularly coming from a team that's digging out a lot of technical debt and solving a lot of performance problems all the time we're probably historically not being very good at picking the right moment to pay off technical debt and address performance problems until they become fires so yeah so to to that point just real quick James and sorry Scott um I think some things are obvious like when we look at our progressive deliveries um strategy I think that we like if you look at something like feature flags or something like that like that's something that I think is going to be like I wouldn't imagine that that's not going to be a key feature that we're going to bring forward um so I feel like that should be a give me on whether adoption has yet struck or not but the second thing that is not clear to me like again when I was interviewing Marin about dog fooding is that I noticed that Marin's like we don't this isn't we weren't they didn't come to us first and so this is not scalable or this is not usable for us internally and so it's like the the approach and process moving forward to dog food in the right spots is not clear to me or you know what the best practice has been or if anybody's you know crack that yeah I can give a concrete example is I did a call with Marin a few months back around confidential merger quests um so we knew that customers wanted to resolve them we knew that we wanted to do that and that we're trying to get rid of dev.gillab.org so I had a video call with him and a bunch of async conversations with like well I've got these ideas for what a first iteration looks like and then we did a few calls and worked through them and worked out which were the things that needed to happen and so we're shipping the first iteration of that in 12.1 but we coordinated with them and spoke I spoke with Marin quite a lot to make sure whatever we were building was useful and would solve the security problems that they had as well as our own ones so yeah I agree it needs to be proactive we're not gonna ship something's useful or that the infrastructure team is gonna want to opt into unless we've had a conversation with them in advance all right it's at 130 set can I add one like last time point it's sometimes really important for customers as well that we're running it on getlab.com before they adopt it so one example is we built ssltls support in Giddily but it's not turned on in getlab.com and so the customer that we built it for isn't using it because they're waiting for our production team to turn it on because they want to see before they turn it on for their enormous instance have we actually proven it at the world's largest getlab instance scale so I think that's one important reason why we always need to make sure that features are on and are getting used on getlab.com.",1.0
+Yeah just one final thought on that like I love that it's a half an hour might almost even like take pick particular categories over over over uh um lengthening the time as an example just because I feel the feeling I had a feeling that if you want to watch it consistently it's going to be in that block but that's just me so like if uh you know other customers are uh you know saying send it with like the larger block then then that's the way way to go so that's that's where I love to get feedback in some fashion but get say okay you know here's how we should change it but we clearly have gone breathwise we've gone so much broader that it's going to be hard to cover all the topics in it.,1.0
+"Third reminder, we've got a little engagement survey.",0.0
+I first responded to my comment about why we have the low excitement ones and just said something about having them sort of stack ranked.,1.0
+So just if you think it does a better job of describing it than the issue itself then use it.,1.0
+Yeah I mean if there are some that relate to each other you could tell a story hey we're trying to prove this and then a b and c tie back to it.,1.0
+And that's where you can describe what the heck of verify is or what the heck I managed.,1.0
+There's something catchy about that.,1.0
+We did that with our Terraform module.,0.0
+And both Christie and I want to move off of that position like we should be customer first and treat our own teams as a customer but let's I don't I don't want people to interpret that our own internal opinion is worth 10 times more than a customer's opinion if that makes sense.,1.0
+"Yeah, Gidops has been canceled after the enablement.",0.0
+That was one of the big things.,0.0
+And here's the one for the platform players.,0.0
+What?,1.0
+So it's nice to have another voice explaining all of that.,1.0
+I agree.,0.0
+It's five you know quick questions and then one free form where you can share whatever feedback you have.,1.0
+I think this has always been a challenge in product even before I've joined GitLab for many people is how to how to get there on some of this terminology when those of us have deep technical background.,1.0
+"So it looks like maybe a platform on reinvent, CICD on Google Next and Gidops on CUBECON.",1.0
+I say that so often that I just think everybody has seen Taladega nights but then I realize that people that haven't are like playing is really weird.,0.0
+I think that makes sense.,0.0
+All right to see customer training discovery training coming soon.,0.0
+"Because I was about to say you're going to hate me for this, but like we're, we're being sick of go about the same problem we had.",1.0
+"You know, they're paying better?",0.0
+But it's small thing.,1.0
+What about like the new pen Christie's product keynote at commit or we don't tell him this with that.,0.0
+"But we of course, we need a benchmark level of what MAU we want to call one, two, three.",0.0
+Watch statistics I think Josh looked this up last time I think he said there were a thousand oh there we go Kenny's putting it in so somewhere between 500 and a thousand.,1.0
+But I think that feels the most important customers are internal and it's just like communicating internally about because like people have done that thing then we had like 50 people in the Zoom call alone not even considering YouTube and people were asking about what happened to YouTube link and things like that so it's well attended internally so I think there's for alignment.,1.0
+"Now you know, there's there's a reason to be excited about this.",1.0
+They do a lot of like a cat hurting and keep on tracking people down.,1.0
+I'm pretty sure I went through my emails.,0.0
+Please do take a minute to fill it out.,1.0
+A lot of these things that don't have like a ton of context on.,1.0
+Taladega has come back and we talk about it on Monday and our little social report.,1.0
+That's kind of old.,0.0
+It is easy on the eyes.,0.0
+"I didn't add it, but I can add that in.",0.0
+"If anybody else didn't get it, please ping me.",1.0
+That's what I was going for.,0.0
+"So it's not, it's not being worse.",1.0
+"Yeah, that's when we tiered them.",1.0
+"Yeah, it should be like market lens.",0.0
+Recorded video if you really want to go deep maybe it's technically complex that's a great idea and then you can just cover the customer value to high level and leave the detail to the video.,0.0
+"Yeah, I think I do too, but but I appreciate the thought.",1.0
+"Is that, do we have VS code listed on here?",1.0
+There were a bunch of things that we released.,0.0
+Do we need to add a line item for GitLab as well because I think that's the single we're here.,1.0
+I was just saying confidence is kind of overused anyway.,0.0
+"Yeah, so I'm not in real time for that.",1.0
+And I understand why we want internal feedback because of dog fooding and using our own product.,0.0
+The engineer in me says there's never no trade offs.,1.0
+It should be all through the lens of.,0.0
+I think it's a little bit of a judgment call.,0.0
+So one of the decisions was to just go with stages.,1.0
+I've got good notes on that.,0.0
+I let's see who can find it faster.,1.0
+I don't recall but is there a way to put the link to the survey in the agenda?,1.0
+Assembly the assembly.,1.0
+I see a couple of ahead now.,1.0
+"So if you look back over the past year and say okay, like what started in the last year but now is really like a full-fledged feature, what would be coming out of beta, right?",1.0
+And so I think we just need to get better at this as a company.,0.0
+All of those elements that allow you to move faster but to do so with confidence because otherwise you're like the faster you go than it gets more dangerous.,1.0
+Anybody else?,1.0
+I just feel like it's kind of worn out now.,1.0
+So you can see how your stage in particular is trending or said to be trending.,1.0
+It sells itself that way.,0.0
+Give it give this just like the rough like pass and like a lot of things recently I've been moving between docs and spreadsheet and the spreadsheet to docs.,1.0
+I was I mean we did the fuzzing acquisitions a long time ago.,0.0
+But it's not from the goofy name.,0.0
+All right.,1.0
+"Azure DevOps, GitHub, Atlassian, and although Atlassians, we still need to figure something out there.",1.0
+I was looking through features and actual monthly features that were released in a given month.,0.0
+I like your move fast with confidence better than increased speed and stay on track.,0.0
+We need to do that.,0.0
+I don't know what I don't think about that.,1.0
+Because like we're separating like presentation layer from data layer.,0.0
+Atlassian is on that sheet.,0.0
+"And then I think between these two, I like to move fast with confidence, but I don't like the the verbiage of it because it doesn't have parity.",0.0
+So this is exactly where this is headed to is the idea that during the product keynote and then ideally during kits sits keynote as well that there's some level of like an announcement that we make that then the press cares about that announcement.,0.0
+I can totally understand why we would add that about prioritized ruthlessly but then the rest is I guess a bunch of formatting changes and I don't know if there's new content in any of the dog fooding.,1.0
+Anybody else in the same condition where you did not receive it?,1.0
+I love how I love that you're just like bang on.,1.0
+The event support that we need isn't as nailed down as it needs to be.,0.0
+And then Dove Hershkowitz.,1.0
+"Remember, there's this interview spreadsheet.",0.0
+I like that one the best.,0.0
+"And then, yeah, I think, Simon, for this, just to kind of reiterate, for this one, we're only doing these five competitors.",0.0
+Product announcements.,0.0
+Like Windows 11 or anybody who's rolling stuff out they almost always have UX as one of their three things and then they mentioned a longer list of stuff that aligns to that.,0.0
+Was it within the past year or longer?,1.0
+This one I couldn't pick.,1.0
+Secure the self factory and it's deliverables.,0.0
+Fabia didn't receive it.,0.0
+It's a good read.,1.0
+Just to evaluate alternatives to the format?,1.0
+If we don't get any more feedback.,0.0
+"Yadda, yadda, yadda.",1.0
+The point was let's prioritize and do what matters most first just it's kind of what I've been preaching the whole time like let's in your area wherever that is do what matters first.,1.0
+All right.,1.0
+I'm just kind of scamming the list.,1.0
+He originally came through the growth funnel.,0.0
+"tier one, tier two, two, three.",1.0
+We need to get something live.,0.0
+And are we trying to hit three per stage?,0.0
+How do you feel about presenting like balsamic or super low-fi mockups on the kickoff call?,0.0
+"So anyway, the, what I love in just in five minutes now and then we can kind of end the call is kind of like, anything that you would change this out for anything that you would change this out for.",1.0
+Product sounds like car manufacturer.,1.0
+I'm sure someone from that team could actually give feedback but I think one thing about the time limit is it's really hard to motivate problems particularly like in a short amount of time particularly when they're very technical like as product categories grow in maturity and sophistication like the problems become more and more specific that we're solving and so motivating those specific reasons and why we're going after like this specific tiny piece of a very mature category it's hard to do it 30 seconds in a way that and so if we want to do that better that's going to put more more pressure on like communicating every single number of items I think.,0.0
+It probably won't be me.,1.0
+"I would say if UX does end up being a flag that we fly, that's an easy one because there's more than just maps to the create stage that would be considered UX improvement.",0.0
+"But man, that was like a really awesome look back at like here's some wins and here's some exciting things that we've done.",1.0
+It's a it's a great channel for feedback but I think it was sending the message that customers weren't nearly as important as internal opinion.,0.0
+And you go like you go into the gym and you pull off this square of carpet and all the children would sit on a square of carpet.,0.0
+This is why we always say mitigate right?,0.0
+And in some they're like I can think of a number where they're just aren't appropriate screenshots or at least there weren't screenshots or mockups created in advance.,0.0
+I do believe it's anonymous but nevertheless everyone has their own custom ID.,0.0
+Because that could be an option too for PMs that are waiting for UX to work in the same sprint.,1.0
+"Well, we're almost up on time, but I did want to share one thing that kind of came in like basically Friday.",1.0
+It was like last spring or summer and then we did another set of press around the integration of it because the PR team liked all the it's I mean we got a lot of attention on the acquisitions so they had me do a follow-up on the integration.,1.0
+Yeah I don't expect everyone.,1.0
+And so that's kind of how I came down on it.,0.0
+So we have like one thing to call them.,1.0
+That I also believe to be important.,0.0
+What does that mean?,1.0
+"Yeah, the only thing it might be missing, but I don't know how we do it without over complicating it is well, I guess less risk also implies higher quality.",1.0
+One is over what time frame are we looking at?,1.0
+And then the other point was we just had 14.0.,0.0
+And that was like you'd have an assembly.,1.0
+"I think ash is like super good at just again, just like the catcher like the turn of phrase element to it.",0.0
+And there's one section that is great.,0.0
+So that's what I do.,1.0
+"If they have like zero out of 15, we should call that out.",0.0
+"So it's a good way you can give a sense for like, you know, it's hard.",1.0
+"Yeah, and that would help me with the plan stuff as well because there are some things like Epic boards that people have been asking for for years now and finally have and that's great, but I think the milestone burn up charts.",1.0
+Unreviewed.,1.0
+So I might constrain it like this.,0.0
+Do we have a link to that quickly?,0.0
+"So I think yeah, this is like let's take the stuff from 14.0 and then maybe add a few more so that we can hit kind of different areas of press or give give our PR team.",1.0
+Yeah and I don't know if this is a follow up issue and the way you described it it doesn't seem controversial but I will say there was a big discussion and a recent initiative you know from Sid and other leaders that we should heavily prioritize dog footing because there were parts there are teams within the company that were not utilizing our features and we wanted to make sure that the product team was responsive to request from them.,1.0
+I think we identified top three competitors for every stage.,0.0
+"So corporate events, they, I think I saw a little, I put this in Slack and I saw a little bit of kind of noise around it, which was good.",1.0
+I just reread it myself.,0.0
+"It would have been like a whole nother layer of, okay, if we don't go with just the GitLab stages, the 10 stages, what do we use?",0.0
+I don't see the header updated yet.,1.0
+"Again, really tough to do at GitLab because it's all been around for a while.",1.0
+"I mean, if the competitor does not apply for that particular stage, they shouldn't be on that tab in this spreadsheet.",0.0
+"And this is something we don't do, which I I agree.",1.0
+"Not a, you know, this is all of our competitors and why we're better.",0.0
+So I literally have a folder where all of my GitLab things go and I can just search for infographic.,1.0
+They just have less green or we would have less green.,0.0
+It's understood.,1.0
+If you haven't already please go in and either confirm that it's accurate or updated.,0.0
+But quick question.,1.0
+I think I mean if I could have to it would be vulnerability management in brow zirker probably.,1.0
+"And you know, there are at least a dozen things that I'm not mentioning that could be on the list.",1.0
+I'm not a big fan of the it's deliverables.,1.0
+"Yeah, that's where we were last I heard.",1.0
+"So this is maybe like super nuanced elements of messaging, but I hate it if it's like a single source of truth that's like in noun phrase and then control that's like a noun item.",1.0
+Number three 122 kick off feedback Josh thanks for leaving the charge I thought you did a good job of MC and sort of adding color commentary in between I thought the screenshots definitely helped there were a bunch that did not have them.,0.0
+I usually let the designers handle that stuff.,0.0
+Did you just open the door for a NASCAR partnership?,0.0
+Oh here's the screenshot you can see that we're going to add a drop down you can see the issues and the children up there that are attached to that Epic.,0.0
+"So I ended up with a single source of truth, countless possibilities.",1.0
+So I just wanted your your input on what's because I saw some of you have compared with the five competitors already listed over there.,1.0
+"What do you all think is a top would be a top five out of the list of you know, 20 or 30?",1.0
+"I think if we took that step further, it would be good to even describe it in the way that doesn't just say our product stage and use like a value-based description of what monitor can figure mean because otherwise we're just, no, that's not going to do any good for us.",0.0
+I'm just looking at it.,1.0
+The extension that had been around for a while became official.,0.0
+If anyone hasn't seen Taladega nights they should.,0.0
+That's another good measure.,0.0
+Next one category maturity page last week we talked about this.,1.0
+I'd love to get to where we're a bit ahead so that we'll have more of these earlier and hopefully the customer discovery flow will get us further ahead on that.,0.0
+Somebody had a direction maturity page.,0.0
+"But then here's the one for, I just put it in chat for you guys.",1.0
+can record.,0.0
+So that's where I think do you want to add maybe we can add high confidence or more confidence at the end of your first statement.,0.0
+I was wondering why is it just because we're not there yet on many of these?,0.0
+"This you know, this might this might end up or some iteration of this might end up in a spreadsheet where we then try to stack rank in PR like okay out of all of like the you know, there's maybe 10 boxes here and three each out of the 30 items which are the top five.",1.0
+And I might be able to do one that might be fun if we have a little bit of time.,1.0
+But we kind of are just trying to move towards some sort of towards some progress.,1.0
+And you're going so fast and somebody holds out the sign and then like half of the bike race collapses.,0.0
+Thanks to Kenny for creating that issue.,0.0
+"So I listed a few specific things like three or four per each as key iterations, but I called them something overall.",0.0
+I thought that and of course we can't talk about any of it on YouTube.,0.0
+"So you could say with GitLab, you get a single source of truth with GitLab, you get and control.",0.0
+I think it's a bit of a it's a bit of an individual judgment call.,0.0
+"I probably should add it, but I had two questions about that one.",1.0
+So it takes a while.,1.0
+No.,1.0
+"So trying to encapsulate that in this like that was kind of where I was like stay on track, but I didn't like it either.",1.0
+And I had I started by just looking at what was considered a key feature over the past year from from create.,1.0
+So then I think we can help the Corp events team.,0.0
+"I think this exercise and opportunity that I think we do a little bit of that, but this is doing it more.",1.0
+I think I participated in a couple of those three of them back to back and they were pretty poorly attended from what my experience was and I think they actually got ended by the product marketing team for that reason.,0.0
+I guess the TLDR the edition of that prioritized ruthlessly or is there some other point we were trying to make in this change?,0.0
+Or someone asked me?,0.0
+"So configure it would be a different set of competitors that we need to include, which I think we already identified a while back.",0.0
+Yeah that feels about average but we've had how many speakers we'll probably have to be a couple minutes max for person.,1.0
+Like I could give you 10 things instead of three.,0.0
+Yeah maybe the externally focused one would be more about what we just shipped.,0.0
+So I did the same there as well.,0.0
+And remember we have three weeks until Q2 to hit our goals so please do invest the time to get those set up and get at least three done if you haven't already.,0.0
+"Same with Azure DevOps, same with J Frog.",0.0
+So I'm going to I'm just going to call those get ops and I'm going to put like KSS agents plus sce for integrations.,0.0
+So we're going to target Gabe for a third managed PM.,0.0
+"But usually when something it's a lot of upvotes or when there's a lot of demand for it, then I would I would bump the excitement level on something like that.",1.0
+"You can say IP here, but it just doesn't sound right and that's always to always short hand.",1.0
+"That has to be determined, reconciled, all this kind of stuff.",1.0
+"So, GitLab builds itself as a platform.",0.0
+I think there were a number of changes but before the handbook basically read that internal feedback is worth 10 times more than external feedback.,0.0
+I really like it.,0.0
+So this is the one.,0.0
+"So the thought here is to, but also because our entire roadmap is completely public and because we shift these tiny little MVCs, a new feature will come out, but it'll be not really usable, right?",1.0
+"No, we're on top of it.",0.0
+So you're a new Ricky body.,0.0
+It's like it's velocity with confidence is what is what you get.,0.0
+This is kind of like input into our PR team to give them fodder to go out with.,0.0
+I'm pretty sure the handbook says that we're meant to well least the guidelines used to be that for new features that were meant to be available on githlet.com and so opposed to that at the same time there used to be a production ready checklist um that I think the engineering team was responsible for I know that for when we launched a geo there was a production readiness process that we had to go through and certainly with Giddly we consider these things on the source code front we're regularly considering scale like moving terabytes of data from the database into object storage and considering all these sorts of things.,1.0
+"So like, hey, let's move fast and do the best we can do.",1.0
+Cindy's last blog post had a really good turn of phrase that I stole for for give that 14 when she was out.,1.0
+Or you throw it in the notes if you find it.,0.0
+"One other cool thing about that is both of those VS code integrations that hit the same month or community contributions, which is also kind of cool.",1.0
+"Okay, so we will have an opportunity.",1.0
+I thought people were going to be using those competitors to compare against.,0.0
+I like the fact that there's no red on there.,0.0
+We need to have a security one in there.,0.0
+I think just as a cycle I think we have something the product and book that I read like a couple days ago on performance something like fast applications are like always you know like more usable and I think that's that's definitely important and I also think that githlet.com is massive I think we have 4 million users and for example for geo I know that only by actually like interacting with the infrastructure we are getting feedback on some of the performance bottlenecks that we are just not seeing otherwise right and so I think that's actually also really valuable and in that regard maybe also like again you know dog fooding these things helps and I think with the combination of CD we may hit a lot of those things at the yeah and the dog fooding thing on that front is a little confusing me I met with Marin to talk about that and you know there's sort of this mentality of looking at .com first or leading with .com for scalability and I just it's not really Chris to me where we're going from making sure that we're you know how we approach me and show that we intact scalability for .com if we're starting with .com or restarting somewhere else um from a dog fooding perspective.,1.0
+That was a two and that's helpful.,0.0
+Make sense.,1.0
+"So, ideally, when we picked like the 10 to 15 features, though some of those were like GitLab only, some of those were like GitLab didn't have.",1.0
+I think I'm going to update the new hire on boarding dock and ask all new hires to read this as well so that we all.,0.0
+"So we're saying, because it really does lend itself to being a comparison more than a competitive piece because of that.",0.0
+They recommended we stick with the green and see how it goes.,0.0
+"So I, this is why I send everything to a Google Gmail because the search is so fast.",0.0
+It's seeing the updates there for the charts.,0.0
+"Some, like some of them might be GitLab only, some of them might be like competitor only, so that it's a, somebody would look at it and be like, this looks honest and trustworthy and like an accurate assessment of the market.",1.0
+So I appreciate bride for adding this.,1.0
+"This one I went with end to end control over your software factory, not as pithy but like not as catchy.",1.0
+"So this, this is another thing.",1.0
+What kind of announcements do we make?,1.0
+I mean no matter how many words you throw at something it's like for example one of my things that I request or I report it on for the release the kickoff meeting was expanding the Epic view in the roadmap and like those are basically just a bunch of buzzwords put together that you're like okay what does that mean expand Epic and I'm just I literally thought on that one for like 20 minutes saying how do I make this epic how do I make this issue title like more descriptive for customer value and it just came down to like that is the functionality we're adding.,0.0
+"Although the core of incident management was part of 12.x, I think.",0.0
+"Yeah, I might even constrain this is we're not going to highlight low excitement, but we want to see the full spectrum, especially in the case we have slim pickings.",0.0
+"So this, this, where we are right now is we're looking at just tier one competitors.",0.0
+All right 3D we went long.,1.0
+We just hired him as the APM monitoring.,0.0
+I think I have some maybe it's on my end but I'm happy to fill it out but I didn't get it.,1.0
+"All right, I will ask Jessica to reason that to you.",0.0
+So that would be helpful there.,0.0
+"Like the, you know, we kind of, I don't know how long it's been since we updated those pages have like not been updated.",1.0
+I just know like we're just trying to up our game.,1.0
+I was really I don't did you all did anybody miss?,1.0
+"I don't see anyone in the, maybe there are comments in the issue.",1.0
+I like the idea of creating an issue and perhaps tweaking the format before next month.,0.0
+Sarah O'Donnell and her team we're going to do a bunch of sort of quick videos on a variety of customer discovery topics.,1.0
+I think it was copy pasted.,0.0
+There might be a value stream analytics story in there too.,1.0
+"Man, it's a pretty heavy pretty heavy list.",1.0
+That's kind of that's kind of my thought on it.,1.0
+She said it really elegant.,1.0
+And integrations we don't well actually we have some pretty exciting integrations.,0.0
+"Yeah, you they'd have this big stack of like carpet.",1.0
+So that's that's kind of also helpful there.,1.0
+"So in the competitive sheet, I was, I mean, I've already identified the features for CD config, as well as monitor, getting it reviewed from PM.",1.0
+Be to be worked with with Christie and David Sakamoto to change in the language around customer results.,0.0
+"So that's, it's not going to be as hard to update in the future as it currently is where it's a mess of spaghetti code and it's like really, really difficult update.",1.0
+So I see manage in here that's excellent.,0.0
+"I went back and added them because based on discussion, like my, I wanted to take them off completely and just leave them as a partner, but we can't do that.",1.0
+Anyway we should discuss it in an issue and come up with something I do think prior to next release kickoff.,0.0
+"Yeah, vulnerability management was one of the you know the features out of we looked at 14.0.",0.0
+"Or, you know, maybe not, which is okay.",1.0
+I would probably say like Kubernetes agent is something that we've made a lot of investment in although I think the Kubernetes agent and from an integration point of view perhaps the Terraform integration I think we have a lot of customers actually using that already.,0.0
+This is not just like marketing shill.,0.0
+Is there a can we say like your software factory and your software or your your software or your product.,0.0
+So yeah I'm putting it along the marketing value of like sort of like a release I mean for fictional customers it kind of feels like that we'd better off having like a webinar or live stream on the release day.,1.0
+So maybe just review this kind of like let's just kind of pick top five maybe something from plan and something from CI CD.,1.0
+"I guess part of it is like I feel like we're almost fixing something that's broken and that's not something you want to shout from the rooftops about, but actually some of that stuff's really cool.",1.0
+"Yeah, that's, that's the goal is we want, we want to generate a helpful asset for the industry.",1.0
+"That is a matter of fact that I go back and add Atlassian because I, based on conversation, I think we have to do it.",0.0
+I know it's taking a lot of energy from everybody but I think our hiring processes continues to pick up speed.,0.0
+So I guess the ask would be to work with your GTM teams.,0.0
+And in terms of the excitement level that also like I went in thinking this is just a two.,1.0
+I was looking at maybe MAU as a metric to perhaps measure whether customers have started using that are interested in using that or not.,0.0
+I have to look at this version.,0.0
+It was like secure the software factory and all the stuff that you're making.,0.0
+So I put a top five overall.,0.0
+"Yeah, it's great to be here.",1.0
+"We probably may not have it for everything, but at least some of it wherever we have it is probably something we can use.",1.0
+So I think that's a good one too.,1.0
+"We have some amount of like we have a stage of you know, a metaphorical stage to say something to the world and we'll get some amount of press attention because we're having an event, right?",1.0
+Okay SEMGRIP that get picked up as online item in a couple of pieces about get back 14.,1.0
+Hey NASCAR goes fast in terms left because of Git Lab.,1.0
+Thank you for the suggestion.,0.0
+That's one of my go-to's.,0.0
+I don't remember that being the point of it maybe it reads that way.,1.0
+He's got a great background in monitoring and it has most recently been elastic.,0.0
+Well this was kind of fun to do a little bit of like working together session and keep it a little razzle.,1.0
+Plus one to revamping it I think I think we're trying to it's like got so many jobs right now that we're not doing a good job at any of those are one of them.,1.0
+I like it.,0.0
+Yeah I thought Lucas were very well framed up.,1.0
+Check those out.,1.0
+I will give a shout out for Jason I know because he's unfortunately created a video but I think the original intent of the kickoff was actually just as a company we had a retrospective and a kickoff a retrospective immediately followed by a kickoff and we just decided to post that on YouTube we now post a whole bunch of content on YouTube so just just having what you would normally do for your kind of like grooming or kickoff within your individual group posted to YouTube and us maybe having a specific channel for people who wanted to follow it.,1.0
+I want to ensure good will with that team and follow up promptly with meetings with these customers so that that team can see that we're taking advantage of it.,0.0
+"And I'll tell you why it's because I like things to have parity in in their tone, right?",1.0
+"So, an ideal world, most of them are like, this is what I'm shopping for, this solution.",1.0
+"Next reminder, we need we have a goal of at least three customer interviews per PM.",0.0
+"Because there's no, you know, these folks at 37% are in the red and they're terrible.",0.0
+"First, we have a book club coming up on Inspired in four weeks on August 7th.",0.0
+"All right, let's let's kick off.",1.0
+There might be a sorry.,1.0
+The charter of that team is to be defined but bottom line we're going to have a third group in the managed area and Gabe will lead that.,0.0
+"I kind of like that, but I, you know, this one I hate, scale up speed up, test up.",1.0
+"Yeah, we're on like the two week cadence.",1.0
+"So in theory, these could change or be updated where the underlying data remains the same, right?",1.0
+"If you missed it, I recommend I last because like what assembly reminds me of it like when I was in like a young child in grade school.",1.0
+"So the current tactic that we're going with is go-to-market team, signs up and kind of sponsors that event.",0.0
+And then the other component is then not in this iteration.,0.0
+I was feeling the red and yellow too.,1.0
